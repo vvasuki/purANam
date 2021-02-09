@@ -10,5 +10,15 @@
 	<atom:link href="https://vvasuki.github.io/purANam/mahAbhAratam/meta/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Battle summary</title>
+      <link>https://vvasuki.github.io/purANam/mahAbhAratam/meta/battle-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vvasuki.github.io/purANam/mahAbhAratam/meta/battle-summary/</guid>
+      <description>Author: Saiswaroopa @Sai_swaroopa
+Day 01 Could record two general battles and 26 duels on Day One. Only 6 of those duels ended decisively. Pandava side suffered horribly in the hands of Bhishma. Uttara killed in the hands of Shalya. Saving grace being Abhimanyu countering Bhishma and winning over Brihadbala. Another highlight is the maternal grandfather of the Pandavas, Kuntibhoja successfully repelling Vinda-Anuvinda of Avanti and the sons of Draupadi excelling. Still Bhishma was so terrible that the Pandava side had to withdraw as soon as the sun set.</description>
+    </item>
+    
   </channel>
 </rss>
