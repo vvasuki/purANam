@@ -81,6 +81,18 @@
     font-weight: normal;
     src: url(../fonts/NotoSerifTibetan-Medium.ttf) format('truetype');
 }
+@font-face {
+    font-family: 'NotoSansSharada-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/NotoSansSharada-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'satisarSharada';
+    font-style: normal;
+    font-weight: normal;
+    src: url(../fonts/satisarSharada.ttf) format('truetype');
+}
 /************************************************************/
 
 code {

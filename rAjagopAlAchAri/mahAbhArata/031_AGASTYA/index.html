@@ -111,10 +111,11 @@
           </a>
         </div>
         <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
-          <form action="/purANam/search">
+          <form action="">
             <input id="titleSearchInputBox" placeholder="शीर्षिकान्विष्यताम्" name="s"><i class="btn fas fa-search "></i>
           </form>
-          <a href="/purANam/custom_site_search/"  class="btn btn-default">Full search</a>
+          <a href=""  class="btn btn-default">Full<i class="btn fas fa-search "></i></a>
+          ✍
           <select name="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
             <option value="devanagari" selected="">स</option>
             <option value="iast">ā</option>
@@ -135,6 +136,11 @@
             <option value="brahmi">𑀅</option>
             <option value="modi">𑘦𑘻𑘚𑘲</option>
             <option value="tirhuta_maithili">𑒁</option>
+          </select>
+          🗨:
+          <select name="commentStyleDropdown" size="1" onchange="module_main.default.updateCommentStyleFromDropdown()">
+            <option value="on">✔</option>
+            <option value="hidden">✗</option>
           </select>
         </div>
         <div class="row col  d-flex justify-content-center">
@@ -429,7 +435,7 @@ Mahabharata.</p>
     </a>
     <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
     <div class="btn small border">
-      Built on 2021 May 13 08:24:09 UTC. (<a href="http://google.com/search?q=08%3a24%3a09%20UTC to IST">IST</a>)
+      Built on 2021 May 13 21:52:03 UTC. (<a href="http://google.com/search?q=21%3a52%3a03%20UTC to IST">IST</a>)
     </div>
   <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
   </ul>
