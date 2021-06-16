@@ -11,4 +11,4 @@ unicode_script: devanagari
   - The old/ kumbhakoNa pATha at http://parankusan.cloudapp.net/Integrated/Login.aspx reads तुष्टोऽभवद्गुरुः; And, kANDa 6 contains 131 rather than 127 sargas - so doesn't exactly match the chanting.
 
 ## अङ्कीकृतप्रतेर् इतिहासः
-- We dumped the https://www.valmikiramayan.net/ text to https://github.com/vvasuki/kAvyam/tree/master/content/TIkA/padya/purANa/rAmAyaNa (don't recall how) modulo some manual corrections later (partly using file comparison with the critical edition while listening to the recitation).
+- We dumped the https://www.valmikiramayan.net/ text to https://github.com/vishvAsa/kAvyam/tree/master/content/TIkA/padya/purANa/rAmAyaNa (don't recall how) modulo some manual corrections later (partly using file comparison with the critical edition while listening to the recitation).
